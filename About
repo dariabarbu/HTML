@@ -1,0 +1,47 @@
+<html> 
+         <head>
+		        <link rel="stylesheet" type="text/css" href="stiluri/style.css">
+         </head>
+      <body>
+		     <div class="meniu">
+			 <ul>
+			    <li><a href="index.html">Home</a></li>
+				 <li><a href="contact.html">My work on paint</a></li>
+				  <li><a href="#">About paint</a></li>
+				  </ul>
+		     </div>	
+              <h1> Paint este un instrument care poate fi utilizat pentru desene și editarea simplă a imaginilor. Aplicația Paint a fost introdusă în fiecare versiune Microsoft Windows, începând cu Windows 1.0, care a fost lansată în 1985.</h1>
+			  <h2>Varianta clasică de Microsoft Paint ar trebui să fie deja pe PC-ul dvs Windows. </h2>
+			  <ol>
+		         <li>În caseta de căutare de lângă Start, pe bara de activități, tastați paint apoi selectați Paint din lista de rezultate.</li>
+				 <li>Dacă aveți cea mai recentă versiune de Windows 10 și doriți să încercați ceva nou, deschideți Paint 3D, care oferă noi instrumente 2D și 3D. Este gratuit și gata de lucru.</li>				 
+		   </ol>
+		   <p style="color:blue;font-family:verdana;">Microsoft Paint '85</p>
+		   <img  alt="paint1" height="500" width="800" src="paint1.jpg" /> <a href="https://www.youtube.com/watch?v=A_UbQa8Z_ec">History of Microsoft Paint 1985 - 2017</a> </br>
+		   
+          <table border=5 style="width:100%">
+		       <thead>
+			           <tr> 
+					        <th colspan="2">Cronologie</th>
+					   </tr>
+			   </thead>
+			   <tbody>
+			           <tr>
+					            <td>Data aparitiei Paint </td>
+								<td>Data aparitiei Paint 3D</td>
+					    
+						</tr>
+						<tr>
+						        <td>1985</td>
+								<td>2010</td>
+			
+					   </tr>					   
+			   </tbody>
+			   <tfoot>
+			          <tr>
+					       <th colspan="2">~~~~~</th>
+					  </tr>
+			   </tfoot>
+		   </table>
+	 </body>	  
+</html>	  
