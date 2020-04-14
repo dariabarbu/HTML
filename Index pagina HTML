@@ -1,0 +1,17 @@
+<html>
+       <head>
+	         <title> PAINT  </title>
+			  <link rel="stylesheet" type="text/css" href="stiluri/style.css">
+	   </head>
+	           <body>
+			          <h1 style="text-align:center;">MICROSOFT PAINT</h1>
+			   <div class="meniu">
+			 <ul>
+			    <li><a href="index.html">Home</a></li>
+				 <li><a href="contact.html">My work on paint</a></li>
+				  <li><a href="about.html">About paint</a></li>
+				  </ul>
+		     </div>	
+					   <img  alt="dev" height="500" width="1400" src="dev.jpg" />
+			   </body>
+</html>
